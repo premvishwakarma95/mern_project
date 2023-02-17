@@ -1,0 +1,42 @@
+.error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hi {
+    font-size: 200px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(236, 230, 230);
+    font-weight: 700;
+}
+
+.hii {
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+
+.hiii {
+    margin-top: -7px;
+}
+
+.link-error {
+    color: white;
+    background-color: rgb(121, 23, 207);
+    padding: 10px 20px;
+    margin-top: 25px;
+    border-radius: 20px;
+}
+
+.link-error:hover {
+    color: white;
+    text-decoration: none;
+}

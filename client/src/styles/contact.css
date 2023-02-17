@@ -1,0 +1,80 @@
+.about-container {
+    display: flex;
+    gap: 50px;
+    margin-top: 40px;
+    justify-content: center;
+}
+
+.icon-no {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    width: 350px;
+    height: 70px;
+    padding: 0 30px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    margin: 0;
+}
+
+.phone {
+    font-weight: bold;
+    font-size: large;
+}
+
+.no {
+    font-size: 14px;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    width: 800px;
+    height: 390px;
+    padding: 40px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+    top: 80px;
+    left: 380px;
+}
+
+.a {
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
+}
+
+.inpu-cont {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.btn {
+    width: 160px;
+    color: white;
+    background-color: rgb(121, 23, 207);
+}
+
+.lower-p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.b::-webkit-outer-spin-button,
+.b::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.c {
+    height: 35px;
+    font-weight: 500;
+}
+
+.textbox {
+    color: rgb(146, 72, 210);
+}

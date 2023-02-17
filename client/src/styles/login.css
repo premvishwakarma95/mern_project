@@ -1,0 +1,21 @@
+.login-link {
+    margin-left: 55px;
+    font-size: medium;
+    color: rgb(41, 46, 41);
+}
+
+.login-link:hover {
+    color: rgb(62, 69, 62);
+    text-decoration: none;
+}
+
+.login-image {
+    width: 300px;
+    height: 200px;
+}
+
+.img-link {
+    display: flex;
+    flex-direction: column;
+
+}
